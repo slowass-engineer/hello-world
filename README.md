@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the Github Flow
+My name is Khiem M. Nguyen, I'm a slowass engineer, nice to meet you.
